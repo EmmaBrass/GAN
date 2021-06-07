@@ -1,1 +1,1 @@
-# GAN
+# StyleGAN
